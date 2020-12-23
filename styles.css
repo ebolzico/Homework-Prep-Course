@@ -1,0 +1,13 @@
+ <style>
+            h1 {color:blue}
+            img {width: 400px}
+            thirdDiv {
+                height:600px
+                width: 500px
+            }
+            thirdDiv {background: black}
+            spanId {font-size:18px}
+            spanId {margin:50px}
+            thirdDiv {padding: 50px}
+            thirdId {border: 2px dotted white}
+        </style>
